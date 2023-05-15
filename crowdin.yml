@@ -1,0 +1,8 @@
+commit_message: "🌐 Crowdin Translation Update [skip ci]"
+append_commit_message: false
+pull_request_title: "🌐 Crowdin Translation Update"
+pull_request_labels:
+    - crowdin
+files:
+    - source: /ClickMeister/Resource/Language/source.xaml
+      translation: /ClickMeister/Resource/Language/%original_file_name%
