@@ -1,0 +1,35 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:mscorlib="clr-namespace:System;assembly=mscorlib"
+                    xmlns:system="clr-namespace:System;assembly=System.Runtime">
+    <system:String x:Key="Language_Code">ru</system:String>
+    <system:String x:Key="Application_Name">Click Meister</system:String>
+    <system:String x:Key="Label_Click_Interval">Click Interval</system:String>
+    <system:String x:Key="Label_Click_Option">Click Option</system:String>
+    <system:String x:Key="Label_Click_Repeater">Click Repeater</system:String>
+    <system:String x:Key="Label_Click_Position">Click Position</system:String>
+    <system:String x:Key="Label_Current_Position">Current Position</system:String>
+    <system:String x:Key="Label_Pick_Position">Pick Position</system:String>
+
+    <system:String x:Key="Label_Interval_Hours">hours</system:String>
+    <system:String x:Key="Label_Interval_Minutes">minutes</system:String>
+    <system:String x:Key="Label_Interval_Seconds">seconds</system:String>
+    <system:String x:Key="Label_Interval_Milliseconds">milliseconds</system:String>
+
+    <system:String x:Key="Label_Mouse_Button">Mouse Button</system:String>
+    <system:String x:Key="Label_Click_Type">Click Type</system:String>
+
+    <system:String x:Key="Label_Repeat">Repeat</system:String>
+    <system:String x:Key="Label_Times">times</system:String>
+    <system:String x:Key="Label_Repeat_Until_Stopped">Repeat Until Stopped</system:String>
+
+    <system:String x:Key="Label_X">X</system:String>
+    <system:String x:Key="Label_Y">Y</system:String>
+
+    <system:String x:Key="Label_Start">Start</system:String>
+    <system:String x:Key="Label_Stop">Stop</system:String>
+    <system:String x:Key="Label_Configure_Hotkey">Configure Hotkey</system:String>
+
+    <system:String x:Key="Label_Running">Running</system:String>
+
+</ResourceDictionary>
