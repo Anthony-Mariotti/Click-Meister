@@ -5,4 +5,4 @@ pull_request_labels:
     - crowdin
 files:
     - source: /ClickMeister/Resource/Language/source.xaml
-      translation: /ClickMeister/Resource/Language/%original_file_name%
+      translation: /ClickMeister/Resource/Language/%two_letters_code%.%file_extension%
