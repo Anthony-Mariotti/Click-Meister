@@ -4,5 +4,5 @@ pull_request_title: "🌐 Crowdin Translation Update"
 pull_request_labels:
     - crowdin
 files:
-    - source: /ClickMeister/Resource/Language/source.xaml
-      translation: /ClickMeister/Resource/Language/%two_letters_code%.%file_extension%
+    - source: /ClickMeister/Resource/Localization/source.xaml
+      translation: /ClickMeister/Resource/Localization/Language/%two_letters_code%.%file_extension%
